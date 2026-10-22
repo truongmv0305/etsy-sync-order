@@ -17,7 +17,7 @@ Chrome extension đồng bộ đơn hàng Etsy sang **Treesprint Admin** và đ�
 > Không xoá hoặc di chuyển thư mục đã giải nén. Chrome chạy extension trực tiếp từ thư mục đó.
 
 ## 2. Nhập API key
-1. Vào Treesprint Admin (https://treesprint.com/store) và lấy api key của store.
+1. Vào Treesprint Admin (https://treesprint.com/stores) và lấy api key của store.
 2. Mở trang orders của Etsy, click icon extension, nhập api key rồi bấm **Save**.
 3. Extension gửi key lên Treesprint để kiểm tra:
    - Key hợp lệ: key được lưu lại, popup tự đóng và panel Treesprint hiện ở bên phải trang.
